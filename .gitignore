@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 keys.js
 node_modules
 .DS_Store
 .env
+=======
+node_modules
+.DS_Store
+.env
+>>>>>>> 91649750ae0e4618f80b9d2f95ad22eb2c0c845e
